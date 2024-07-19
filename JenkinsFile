@@ -45,7 +45,7 @@ pipeline {
                 echo "Choice: ${params.CHOICE}"
 
                 echo "Password: ${params.PASSWORD}"
-                echo "triggered test again"
+                echo "triggered test again and again"
             }
 
         
